@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+nltk
+gensim
+gradio
+joblib
+matplotlib
+seaborn
